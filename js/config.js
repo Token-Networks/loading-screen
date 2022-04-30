@@ -5,7 +5,7 @@ var Config = {};
  * What should the text in the center of the screen be?
  * if empty it will fill in your Server Name
  */
-Config.title = "";
+Config.title = "Token Networks";
 
 /**
  * Enable map text in the top left corner of the screen?
@@ -27,8 +27,13 @@ Config.enableAnnouncements = true;
  * only works if enableAnnouncements = true
  */
 Config.announceMessages = [
-  "Enjoy your stay!",
-  "This loadingscreen is made by Exsite"
+"Enjoy the server",
+"Thanks for joining us!",
+"Welcome to Token RP",
+"Did you know 'OMG' usage can be traced back to 1917.",
+"Some cats are actually allergic to humans",
+"Enjoy your stay",
+"There was a successful Tinder match in Antarctica in 2014."
 ];
 
 /**
